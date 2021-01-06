@@ -1,3 +1,5 @@
+# Deleted
+
 
 # nrf_dfu_example_js
 
